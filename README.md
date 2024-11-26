@@ -32,7 +32,7 @@
 * [PostGIS Pictures and Patterns](PostGIS_Pictures_and_Patterns.pdf)
   * 2021, PostGIS Day 
 * [PostGIS Spatial Overlay - The Next Generation](PostGIS_Spatial_Overlay_Next_Generation.pdf)
-  * 2020 
+  * 2020, PostGIS Day [video](https://www.youtube.com/watch?v=L_TDBs2cIXw)
 * [PostGIS and SVG](PostGIS_and_SVG.pdf)
   * 2019
 
