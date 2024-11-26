@@ -27,8 +27,8 @@
   * 2023, FOSS4G North America, Baltimore, USA
 * [PostGIS Simple Coverages](postgis/PostGIS_Simple_Coverages_PGDay2023.pdf)
   * 2023, PostGIS Day
-* [PostGIS Hulls and Triangulations](postgis/PostGIS_Hulls_and_Triangulations.pdf)
-  * 2022, PostGIS Day 
+* [PostGIS Triangule, Hulls and Coverages](postgis/PostGIS_Hulls_and_Triangulations.pdf)
+  * 2022, PostGIS Day [video](https://www.youtube.com/watch?v=hpWqhqZSYAI)
 * [PostGIS Pictures and Patterns](postgis/PostGIS_Pictures_and_Patterns.pdf)
   * 2021, PostGIS Day 
 * [PostGIS Spatial Overlay - The Next Generation](postgis/PostGIS_Spatial_Overlay_Next_Generation.pdf)
