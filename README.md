@@ -16,34 +16,37 @@
   * 2011
 * [JTS - an API for Geometry](jts/JTS_API_for_Geometry.pdf)
   * 2011, FOSS4G, Denver, USA
-* [Geometry Libraries for Fun and Profit](Geometry_Libraries_for_Fun_and_Profit.pdf)
+* [Geometry Libraries for Fun and Profit](jts/Geometry_Libraries_for_Fun_and_Profit.pdf)
   * 2011, GeoGeeks, Victoria, Canada
 
 ## PostGIS
 
-* [Using PostGIS and H3 to analyze UFO Risk](PostGIS_H3_UFO_Risk.pdf)
+* [Using PostGIS and H3 to analyze UFO Risk](postgis/PostGIS_H3_UFO_Risk.pdf)
   * 2024 PostGIS Day 
-* [PostGIS Simple Coverages](PostGIS_Simple_Coverages_FOSS4GNA2023.pdf)
+* [PostGIS Simple Coverages](postgis/PostGIS_Simple_Coverages_FOSS4GNA2023.pdf)
   * 2023, FOSS4G North America, Baltimore, USA
-* [PostGIS Simple Coverages](PostGIS_Simple_Coverages_PGDay2023.pdf)
+* [PostGIS Simple Coverages](postgis/PostGIS_Simple_Coverages_PGDay2023.pdf)
   * 2023, PostGIS Day
-* [PostGIS Hulls and Triangulations](PostGIS_Hulls_and_Triangulations.pdf)
+* [PostGIS Hulls and Triangulations](postgis/PostGIS_Hulls_and_Triangulations.pdf)
   * 2022, PostGIS Day 
-* [PostGIS Pictures and Patterns](PostGIS_Pictures_and_Patterns.pdf)
+* [PostGIS Pictures and Patterns](postgis/PostGIS_Pictures_and_Patterns.pdf)
   * 2021, PostGIS Day 
-* [PostGIS Spatial Overlay - The Next Generation](PostGIS_Spatial_Overlay_Next_Generation.pdf)
+* [PostGIS Spatial Overlay - The Next Generation](postgis/PostGIS_Spatial_Overlay_Next_Generation.pdf)
   * 2020, PostGIS Day [video](https://www.youtube.com/watch?v=L_TDBs2cIXw)
-* [PostGIS and SVG](PostGIS_and_SVG.pdf)
+* [PostGIS and SVG](postgis/PostGIS_and_SVG.pdf)
   * 2019
 
 ## JUMP Unified Mapping Platform
 
-* [JTS & JUMP - a Foundation for Spatial Processing](JTS_JUMP_Foundation_Spatial_Processing.pdf)
+* [JTS & JUMP - a Foundation for Spatial Processing](jump/JTS_JUMP_Foundation_Spatial_Processing.pdf)
   * 2004
-* [The JUMP Unified Mapping Platform](JUMP_Overview.pdf)
+* [The JUMP Unified Mapping Platform](jump/JUMP_Overview.pdf)
   * 2003
 
 ## Spatial Processing
+
+* [Oracle Spatial - Tools and Techniques](spatial/Oracle_Spatial_Tools_Techniques.pdf)
+  * 2005
 
 
 
