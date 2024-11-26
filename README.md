@@ -15,7 +15,9 @@
 * [What's New in JTS 2011](jts/Whats_New_in_JTS_2011.pdf)
   * 2011
 * [JTS - an API for Geometry](jts/JTS_API_for_Geometry.pdf)
-  * 2011 
+  * 2011, FOSS4G, Denver, USA
+* [Geometry Libraries for Fun and Profit](Geometry_Libraries_for_Fun_and_Profit.pdf)
+  * 2011, GeoGeeks, Victoria, Canada
 
 ## PostGIS
 
@@ -31,6 +33,11 @@
   * PostGIS Day 2021 
 * [PostGIS Spatial Overlay - The Next Generation](PostGIS_Spatial_Overlay_Next_Generation.pdf)
   * 2020 
-* [PostGIS and SVG](PostGIS_and_SVG.pdf) 
+* [PostGIS and SVG](PostGIS_and_SVG.pdf)
+
+## JUMP Unified Mapping Platform
+
+## Spatial Processing
+
 
 
