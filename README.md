@@ -34,6 +34,7 @@
 * [PostGIS Spatial Overlay - The Next Generation](PostGIS_Spatial_Overlay_Next_Generation.pdf)
   * 2020 
 * [PostGIS and SVG](PostGIS_and_SVG.pdf)
+  * 2019
 
 ## JUMP Unified Mapping Platform
 
