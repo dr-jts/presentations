@@ -17,5 +17,14 @@
 * [JTS - an API for Geometry](jts/JTS_API_for_Geometry.pdf)
   * 2011 
 
+## PostGIS
+
+* [Using PostGIS and H3 to analyze UFO Risk](PostGIS_H3_UFO_Risk.pdf)
+* [PostGIS Hulls and Triangulations](PostGIS_Hulls_and_Triangulations.pdf)
+* [PostGIS Pictures and Patterns](PostGIS_Pictures_and_Patterns.pdf)
+* [PostGIS_Simple_Coverages](PostGIS_Simple_Coverages_FOSS4GNA2023.pdf)
+* [PostGIS Simple Coverages](PostGIS_Simple_Coverages_PGDay2023.pdf)
+* [PostGIS Spatial Overlay - The Next Generation](PostGIS_Spatial_Overlay_Next_Generation.pdf)
+* [PostGIS and SVG](PostGIS_and_SVG.pdf)
 
 
