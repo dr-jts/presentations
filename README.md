@@ -37,6 +37,11 @@
 
 ## JUMP Unified Mapping Platform
 
+* [JTS & JUMP - a Foundation for Spatial Processing](JTS_JUMP_Foundation_Spatial_Processing.pdf)
+  * 2004
+* [The JUMP Unified Mapping Platform](JUMP_Overview.pdf)
+  * 2003
+
 ## Spatial Processing
 
 
